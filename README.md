@@ -12,8 +12,6 @@
 
 - 👨‍💻 My favorite course repository [CMPT 361: Computer Vision & Graphics](https://github.com/dgtutv/CMPT361)
 
-- 👨‍💻 All of my projects are available at [github.com/dgtutv](github.com/dgtutv)
-
 - 🧾 My most recent school transcript can be found at [https://github.com/dgtutv/dgtutv/blob/main/SFU_TSCRPT_U.pdf](https://github.com/dgtutv/dgtutv/blob/main/SFU_TSCRPT_U.pdf)
 
 - 💬 Ask me about **C++, Mathematics, Cooking**
