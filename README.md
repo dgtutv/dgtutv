@@ -10,11 +10,11 @@
 
 - 📱 An app I developed [GatorBlocks](https://github.com/dgtutv/Gatorblocks-Wear)
 
-- 👨‍💻 My favorite course repository [CMPT 361: Computer Vision & Graphics](https://github.com/dgtutv/CMPT361)
+- 👨‍💻 My favorite course repository [CMPT 300: Operating System Design](https://github.com/dgtutv/CMPT300)
 
 - 🧾 My most recent school transcript can be found at [https://github.com/dgtutv/dgtutv/blob/main/SFU_TSCRPT_U.pdf](https://github.com/dgtutv/dgtutv/blob/main/SFU_TSCRPT_U.pdf)
 
-- 💬 Ask me about **C++, Mathematics, Cooking**
+- 💬 Ask me about **C++, Multiprogramming, SQL**
 
 - 📫 How to reach me **dgt1@sfu.ca**
 
