@@ -6,7 +6,7 @@
 
 - 🕹️ A game I worked on [Raccoon Game](https://github.com/dgtutv/RaccoonGame)
 
-- ✍️ I’m currently learning **Relational database design & Operation systems with Unix**
+- ✍️ I’m currently learning **HTML & CSS**
 
 - 📱 An app I developed [GatorBlocks](https://github.com/dgtutv/Gatorblocks-Wear)
 
