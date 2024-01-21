@@ -6,7 +6,7 @@
 
 - 🕹️ A game I worked on [Raccoon Game](https://github.com/dgtutv/RaccoonGame)
 
-- ✍️ I’m currently learning **Database Management System Design & Angular Front End Web Development Framework**
+- ✍️ I’m currently learning **Quantum computing, physics, and algorthithms**
 
 - 📱 An app I developed [GatorBlocks](https://github.com/dgtutv/Gatorblocks-Wear)
 
