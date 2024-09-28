@@ -3,22 +3,23 @@
 <h3 align="center">A resilient, creative computer science student attending Simon Fraser University in British Columbia, Canada</h3>
 
 
+- 🌐 A web game I made [Wordle Ultimate](https://dgtutv.github.io/Wordle/)
 
-- 🕹️ A game I worked on [Raccoon Game](https://github.com/dgtutv/RaccoonGame)
+- 🕹️ A Java game I worked on [Raccoon Game](https://github.com/dgtutv/RaccoonGame)
 
-- ✍️ I’m currently learning **Quantum computing, physics, and algorthithms**
+- ✍️ I’m currently learning **Advanced front end web development skills, more frameworks.**
 
 - 📱 An app I developed [GatorBlocks](https://github.com/dgtutv/Gatorblocks-Wear)
 
 - 👨‍💻 My favorite course repository [CMPT 300: Operating System Design](https://github.com/dgtutv/CMPT-300)
 
-- 🧾 My most recent school transcript can be found at [https://github.com/dgtutv/dgtutv/blob/main/SFU_TSCRPT_U.pdf](https://github.com/dgtutv/dgtutv/blob/main/SFU_TSCRPT_U.pdf)
+- 🧾 My most recent school transcript can be found in my [Resume Repository](https://github.com/dgtutv/Resume)
 
 - 💬 Ask me about **C, Multiprogramming, SQL**
 
 - 📫 How to reach me **dgt1@sfu.ca**
 
-- 📰 My resume can be found at [https://github.com/dgtutv/dgtutv/blob/main/Resume.pdf](https://github.com/dgtutv/dgtutv/blob/main/Resume.pdf)
+- 📰 My resume can be found found in my [Resume Repository](https://github.com/dgtutv/Resume)
 
 - 🏂 Fun fact **I'm an avid snowboarder**
 
