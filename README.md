@@ -7,7 +7,7 @@
 
 - 🕹️ A Java game I worked on [Raccoon Game](https://github.com/dgtutv/RaccoonGame)
 
-- ✍️ I’m currently learning **Advanced front end web development skills, more frameworks.**
+- ✍️ I’m currently learning **Advanced React and Node.js techniques to streamline workflow**
 
 - 📱 An app I developed [GatorBlocks](https://github.com/dgtutv/Gatorblocks-Wear)
 
@@ -15,7 +15,7 @@
 
 - 🧾 My most recent school transcript can be found in my [Resume Repository](https://github.com/dgtutv/Resume)
 
-- 💬 Ask me about **C, Multiprogramming, SQL**
+- 💬 Ask me about **C, Multiprogramming, SQL, TypeScript, React, CSS**
 
 - 📫 How to reach me **dgt1@sfu.ca**
 
