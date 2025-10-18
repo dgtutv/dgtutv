@@ -3,23 +3,19 @@
 <h3 align="center">A resilient, creative computer science student attending Simon Fraser University in British Columbia, Canada</h3>
 
 
-- 🌐 A web game I made [Wordle Ultimate](https://dgtutv.github.io/Wordle/)
+- 💬 A chat service I developed [Messenger App](https://messenger-frontend-production.up.railway.app/)
+- 
+- 🌐 A web game I made [Wordle Ultimate](https://dgtutv.github.io/Wordle/) 
 
 - 🕹️ A Java game I worked on [Raccoon Game](https://github.com/dgtutv/RaccoonGame)
 
-- ✍️ I’m currently learning **Advanced React and Node.js techniques to streamline workflow**
+- ✍️ I’m currently learning **Rust and Haskell**
 
 - 📱 An app I developed [GatorBlocks](https://github.com/dgtutv/Gatorblocks-Wear)
 
 - 👨‍💻 My favorite course repository [CMPT 300: Operating System Design](https://github.com/dgtutv/CMPT-300)
 
-- 🧾 My most recent school transcript can be found in my [Resume Repository](https://github.com/dgtutv/Resume)
-
-- 💬 Ask me about **C, Multiprogramming, SQL, TypeScript, React, CSS**
-
 - 📫 How to reach me **dgt1@sfu.ca**
-
-- 📰 My resume can be found found in my [Resume Repository](https://github.com/dgtutv/Resume)
 
 - 🏂 Fun fact **I'm an avid snowboarder**
 
